@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student in [_University College Dublin (UCD)_](http://www.ucd.ie/) and [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%40Updated%41.pdf) is co-organized by the above two schools, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CN bachelor's degree from BJUT on July, 2020.
+I am a final year undergraduate student in [_University College Dublin (UCD)_](http://www.ucd.ie/) and [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/) with a major in Internet of Things (IoT). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%40Updated%41.pdf) is co-organized by the above two schools, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CN bachelor's degree from BJUT on July, 2020.
 
-My major GPA and .
-Out of the classroom, I have worked on a care robot project for more than a year. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Working with me team, we finally developed Through the school's business connections, I conducted the second development of the company , through which I established a dictionary of frequently used words in eldercare to optimise recognition accuracy. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. After working in our spare time for a year, our group successfully made a prototype care robot.have led my team participated in ,our team won top prizes from 10+ national and international 
+I am interested in what I have learnt during the past four years. My current Stage 4 GPA is 3.90 (got A in 5 out of 6 modules), my stage 3 GPA is 3.92 (got A level in 10 out of 12 modules). 
+
+Out of the classroom, I have worked on a care robot project for more than a year. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. I also trained a people fallen model with dlib to detect elderly's fallen. Working with me team, we finally successfully made a prototype care robot.
+
+Our tem has also won top prizes from 10+ national and international competitions, for detailed info, goto -> Competitions.
+
 
 Academic Performance
 ------
@@ -57,7 +61,7 @@ Source code can be accessed here: <https://github.com/wzh1998/FractalWorld>
 
 Research Interest
 ------
-need to be done...
+I am specifically interested in distributed coordination within multi-robot systems. Imagine that, in the near future, when a smart refrigerator detects that there is insufficient food, it will automatically send an order to the supermarket. A wheeled robot will open the door, taking the ingredients to a cooking robot. When the owners come home after work, they can immediately enjoy a delicious dinner. After the meal, the wheeled robot will then take the dishes to an automatic dishwasher. 
 
 
 For more info
