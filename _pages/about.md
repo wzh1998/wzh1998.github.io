@@ -12,15 +12,15 @@ I am a final year undergraduate student in [_University College Dublin (UCD)_](h
 
 I am interested in what I have learnt during the past four years. My current Stage 4 GPA is 3.90 (got A in 5 out of 6 modules), my stage 3 GPA is 3.92 (got A level in 10 out of 12 modules). 
 
-Out of the classroom, I have worked on a care robot project for more than a year. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. I also trained a people fallen model with dlib to detect elderly's fallen. Working with me team, we finally successfully made a prototype care robot.
+Out of the classroom, I have worked on a care robot project for more than a year. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. I also trained a people-fallen model with dlib to detect elderly's fallen at home. Working with me team, we finally successfully made this care robot.
 
-Our tem has also won top prizes from 10+ national and international competitions, for detailed info, goto -> Competitions.
+Our team has also won top prizes from 10+ national and international competitions, for detailed info, goto Competitions.
 
 
 Academic Performance
 ------
-To view my official transcript, click here.
-
+To view my official UCD transcript, click [_here_](https://drive.google.com/file/d/1PsIlx4wQLx8t6wFr7srmqEMgSJVPLs-5/view?usp=sharing).
+To view my official BJUT transcript, click [_here_](https://drive.google.com/file/d/14v8PKJt23dFfThMs9PFzynfaS9bq0E3W/view?usp=sharing).
 
 Professional Experience
 ------
