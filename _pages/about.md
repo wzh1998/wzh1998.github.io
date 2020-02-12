@@ -12,9 +12,9 @@ I am a final year undergraduate student in [_University College Dublin (UCD)_](h
 
 I am interested in what I have learnt during the past four years. My current Stage 4 GPA is 3.90 (got A in 5 out of 6 modules), my stage 3 GPA is 3.92 (got A level in 10 out of 12 modules). 
 
-Out of the classroom, I have worked on a care robot project for more than a year. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. I also trained a people-fallen model with dlib to detect elderly's fallen at home. Working with me team, we finally successfully made this care robot.
+Out of the classroom, I have worked on a care robot project for over a year. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. I also trained a people-fallen model with dlib to detect elderly's fallen at home. Working with my team together, we also developed many other fantastic features (see Professional Exp) and we finally successfully made the care robot.
 
-Our team has also won top prizes from 10+ national and international competitions, for detailed info, goto Competitions.
+Our team has also won top prizes from 10+ national and international competitions, for detailed info, goto Competitions/CV.
 
 
 Academic Performance
@@ -39,11 +39,11 @@ Professional Experience
   * Rubbish detection: I implemented a Python recognition programme by training a 2-D rubbish model using methods provided in the dlib toolkit, then programmed in Arduino to pick up the rubbish using a 6-DOF mechanical arm.
   * Elderly fall detection.
 
++ As a software engineering intern at Beijing Huitong Financial Information Technology Co., Ltd. last summer, I implemented programmes in Java and combined them with UiPath process automation design software to perform voice calls using a software robot. I also tested the automated invoice verification system and verified that the robotic process automation had reduced invoice verification processing time by 70%.
+Source code can be accessed [_here_](https://github.com/wzh1998/STATE_GRID_Voice_Recognization)
+
 + I joined my school's programming team to learn about dynamic programming, game theory and high-efficiency data structures such as Segment Tree since I was in stage two. By solving algorithm problems taken from the ACM-ICPC contest using C++, I trained with my teammates to improve our speed and accuracy.
 Some of my algorithm training code can be accessed [_here_](https://github.com/wzh1998/ACM/tree/master/ACM)
-
-+ As a software engineering intern at Beijing Huitong Financial Information Technology Co., Ltd. this summer, I implemented programmes in Java and combined them with UiPath process automation design software to perform voice calls using a software robot. I also tested the automated invoice verification system and verified that the robotic process automation had reduced invoice verification processing time by 70%.
-Source code can be accessed [_here_](https://github.com/wzh1998/STATE_GRID_Voice_Recognization)
 
 + In my Database course project, I led a group of three to design a smart home control web system, including entity relationship diagram design, database mapping, database normalisation and physical implementation. I worked with my teammates to design the structure of our database and implemented the back end of the system independently, which was completed in Java. The Java programmes were designed as an interface between web pages and MySQL database using Java Database Connectivity (JDBC). Consequently, every time the user has a query on the website, the server will execute a corresponding operation in the database.
   - Detailed design progress can be viewed [_here_](https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf)
