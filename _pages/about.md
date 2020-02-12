@@ -20,6 +20,7 @@ Our team has also won top prizes from 10+ national and international competition
 Academic Performance
 ------
 To view my official UCD transcript, click [_here_](https://drive.google.com/file/d/1PsIlx4wQLx8t6wFr7srmqEMgSJVPLs-5/view?usp=sharing).
+
 To view my official BJUT transcript, click [_here_](https://drive.google.com/file/d/14v8PKJt23dFfThMs9PFzynfaS9bq0E3W/view?usp=sharing).
 
 Professional Experience
@@ -45,9 +46,9 @@ Some of my algorithm training code can be accessed [_here_](https://github.com/w
 Source code can be accessed [_here_](https://github.com/wzh1998/STATE_GRID_Voice_Recognization)
 
 + In my Database course project, I led a group of three to design a smart home control web system, including entity relationship diagram design, database mapping, database normalisation and physical implementation. I worked with my teammates to design the structure of our database and implemented the back end of the system independently, which was completed in Java. The Java programmes were designed as an interface between web pages and MySQL database using Java Database Connectivity (JDBC). Consequently, every time the user has a query on the website, the server will execute a corresponding operation in the database.
-Detailed design progress can be viewed [_here_](https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf)
-Java code for this project can be accessed [_here_](https://github.com/wzh1998/DBLab/tree/master/src/ie/ucd/comp2004J)
-The web system can be accessed [_here_](http://39.108.231.244:8080/DBLab/index.jsp)
+  - Detailed design progress can be viewed [_here_](https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf)
+  * Java code for this project can be accessed [_here_](https://github.com/wzh1998/DBLab/tree/master/src/ie/ucd/comp2004J)
+  * The web system can be accessed [_here_](http://39.108.231.244:8080/DBLab/index.jsp)
 
 + I enjoy exploring new areas that interest me. Finding remarkable fractal images that seemed interesting if used as avatars, I spent several days learning and implementing a programme drawing a Mandelbulb (a 3-D image calculated by recursion of mathematical equations) in C programming language.
 Source code can be accessed [_here_](https://github.com/wzh1998/FractalWorld)
