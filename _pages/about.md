@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student in [_University College Dublin_](http://www.ucd.ie/) and [_Beijing University of Technology_](http://www.bjut.edu.cn/). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%40Updated%41.pdf) is co-organized by the above two schools, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get an First-Class Honours EU Bachelor degree from UCD and a CN bachelor's degree from BJUT on July, 2020.
+I am a final year undergraduate student in [_University College Dublin (UCD)_](http://www.ucd.ie/) and [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%40Updated%41.pdf) is co-organized by the above two schools, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CN bachelor's degree from BJUT on July, 2020.
 
 Academic Performance
 ------
