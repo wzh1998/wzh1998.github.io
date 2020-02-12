@@ -19,8 +19,7 @@ Our tem has also won top prizes from 10+ national and international competitions
 
 Academic Performance
 ------
-To get my official transcript, click here.
-
+To view my official transcript, click here.
 
 
 Professional Experience
@@ -48,12 +47,9 @@ Source code can be accessed here:
 <https://github.com/wzh1998/STATE_GRID_Voice_Recognization>
 
 + In my Database course project, I led a group of three to design a smart home control web system, including entity relationship diagram design, database mapping, database normalisation and physical implementation. I worked with my teammates to design the structure of our database and implemented the back end of the system independently, which was completed in Java. The Java programmes were designed as an interface between web pages and MySQL database using Java Database Connectivity (JDBC). Consequently, every time the user has a query on the website, the server will execute a corresponding operation in the database.
-Detailed design progress can be viewed through:
-<https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf>
-Java code for this project can be accessed through:
-<https://github.com/wzh1998/DBLab/tree/master/src/ie/ucd/comp2004J>
-The web system can be accessed through: 
-<http://39.108.231.244:8080/DBLab/index.jsp>
+Detailed design progress can be viewed through: <https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf>
+Java code for this project can be accessed through: <https://github.com/wzh1998/DBLab/tree/master/src/ie/ucd/comp2004J>
+The web system can be accessed through: <http://39.108.231.244:8080/DBLab/index.jsp>
 
 + I enjoy exploring new areas that interest me. Finding remarkable fractal images that seemed interesting if used as avatars, I spent several days learning and implementing a programme drawing a Mandelbulb (a 3-D image calculated by recursion of mathematical equations) in C programming language.
 Source code can be accessed here: <https://github.com/wzh1998/FractalWorld>
