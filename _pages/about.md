@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student in [_University College Dublin (UCD)_](http://www.ucd.ie/) and [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/) with a major in Internet of Things (IoT). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two schools, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CN bachelor's degree from BJUT on July, 2020.
+I am a final year undergraduate student in [_University College Dublin (UCD)_](http://www.ucd.ie/) and [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/) with a major in Internet of Things (IoT). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CN bachelor's degree from BJUT on July, 2020.
 
 I am interested in what I have learnt during the past four years. My current Stage 4 GPA is 3.90 (got A-/A/A+ in 5 out of 6 modules), my stage 3 GPA is 3.92 (got A-/A/A+ in 10 out of 12 modules). 
 
@@ -23,15 +23,15 @@ To view my UCD official transcript, click [_here_](https://drive.google.com/file
 
 To view my BJUT official transcript, click [_here_](https://drive.google.com/file/d/14v8PKJt23dFfThMs9PFzynfaS9bq0E3W/view?usp=sharing).
 
-Final Award GPA is calculated by:
+Final Award GPA is calculated by _formula 1_:
 
-$$Final\,Award\,GPA=GPA_{stage\,3}\cdot 30\% + GPA_{stage\,4}\cdot 70\%$$
+$$Award\,GPA=GPA_{stage\,3}\cdot 30\% + GPA_{stage\,4}\cdot 70\%$$
 
 For official definitions about my degree awarded, refer [_here_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf)
 
 Professional Experience
 ------
-+ During my second year of undergraduate study, I dedicated myself in an undergraduate robotics project. I had the idea to create a robot that would care for the elderly after seeing a report from the United Nations indicating that, by 2050, one in six people worldwide (16%) will be over the age of 65, increased from one in eleven (9%) in 2018. This finding was even more significant in light of statistics from the China Life Insurance Company illustrating that more than 9% of people in China age 75 or over were readmitted to the hospital within a month of discharge. This suggests that they were not given sufficient care at home, which, in turn, indicated a shortage of caregivers. I believe that caregiver robots could be an extension of the elderly’s abilities in their daily lives, providing them independence, warmth and comfort. After applying through our college to establish an undergraduate robot project, two of my classmates and I were granted the devices and laboratory space necessary to set to work, with me as the project leader. After working in our spare time for a year, my team and I successfully built a multifunctional care robot. Technical details can be found in my curriculum vitae. Source code of this project can be accessed [_here_](https://github.com/wzh1998/Care_Robot). Some important features are shown below. 
++ During my second year of undergraduate study, I dedicated myself to an undergraduate robotics project. I had the idea to create a robot that would care for the elderly after seeing a report from the United Nations indicating that, by 2050, one in six people worldwide (16%) will be over the age of 65, increased from one in eleven (9%) in 2018. This finding was even more significant in light of statistics from the China Life Insurance Company illustrating that more than 9% of people in China age 75 or over were readmitted to the hospital within a month of discharge. This suggests that they were not given sufficient care at home, which, in turn, indicated a shortage of caregivers. I believe that caregiver robots could be an extension of the elderly’s abilities in their daily lives, providing them independence, warmth and comfort. After applying through our college to establish an undergraduate robot project, two of my classmates and I were granted the devices and laboratory space necessary to set to work, with me as the project leader. After working in our spare time for a year, my team and I successfully built a multifunctional care robot. Technical details can be found in my curriculum vitae. Source code of this project can be accessed [_here_](https://github.com/wzh1998/Care_Robot). Some important features are shown below. 
 
   The following features are implemented in C++ (employing roscpp library):
   - Motor control of omnidirectional wheels.
@@ -55,6 +55,7 @@ Some of my algorithm training code can be accessed [_here_](https://github.com/w
   - Detailed design progress can be viewed [_here_](https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf)
   * Java code for this project can be accessed [_here_](https://github.com/wzh1998/DBLab/tree/master/src/ie/ucd/comp2004J)
   * The web system can be accessed [_here_](http://39.108.231.244:8080/DBLab/index.jsp)
+
 
 + I enjoy exploring new areas that interest me. Finding remarkable fractal images that seemed interesting if used as avatars, I spent several days learning and implementing a programme drawing a Mandelbulb (a 3-D image calculated by recursion of mathematical equations) in C programming language.
 Source code can be accessed [_here_](https://github.com/wzh1998/FractalWorld)
