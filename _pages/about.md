@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final year undergraduate student at [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/) and [_University College Dublin (UCD)_](http://www.ucd.ie/) with a major in Internet of Things (IoT). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CN bachelor's degree from BJUT on July, 2020.
 
-I am interested in what I have learnt during the past three years. My current Stage 4 GPA is 3.90 (got A-/A/A+ in 5 out of 6 modules), my stage 3 GPA is 3.92 (got A-/A/A+ in 10 out of 12 modules). 
+I am interested in what I have learnt during the past three years. My current Stage 4 GPA is 3.93 (got A-/A/A+ in 5 out of 6 modules), my stage 3 GPA is 3.92 (got A-/A/A+ in 10 out of 12 modules). 
 
 Out of the classroom, I have worked on a care robot project for over a year. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. I also trained a people-fallen model with dlib to detect elderly's fallen at home. Working with my team together, we also developed many other fantastic features (see Professional Exp) and we finally successfully made the care robot.
 
@@ -19,6 +19,8 @@ Our team has also won top prizes from 10+ national and international competition
 
 Academic Performance
 ------
+-> Feb 14, 2020 Update: To view my current stage 4 GPA, click [_here_](https://drive.google.com/file/d/1plSbMkZ7SgpC-Y1LtkQVslKjjNj5OXuy/view?usp=sharing).
+
 To view my UCD official transcript, click [_here_](https://drive.google.com/file/d/1PsIlx4wQLx8t6wFr7srmqEMgSJVPLs-5/view?usp=sharing).
 
 To view my BJUT official transcript, click [_here_](https://drive.google.com/file/d/14v8PKJt23dFfThMs9PFzynfaS9bq0E3W/view?usp=sharing).
