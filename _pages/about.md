@@ -19,7 +19,7 @@ Our team has also won top prizes from 10+ national and international competition
 
 Academic Performance
 ------
--> Feb 14, 2020 Update: To view my current stage 4 GPA, click [_here_](https://drive.google.com/file/d/1plSbMkZ7SgpC-Y1LtkQVslKjjNj5OXuy/view?usp=sharing).
+__Feb 14, 2020 Update:__ To view my current stage 4 GPA, click [_here_](https://drive.google.com/file/d/1plSbMkZ7SgpC-Y1LtkQVslKjjNj5OXuy/view?usp=sharing).
 
 To view my UCD official transcript, click [_here_](https://drive.google.com/file/d/1PsIlx4wQLx8t6wFr7srmqEMgSJVPLs-5/view?usp=sharing).
 
