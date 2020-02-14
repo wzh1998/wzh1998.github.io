@@ -47,20 +47,20 @@ Professional Experience
   * Rubbish detection: I implemented a Python recognition programme by training a 2-D rubbish model using methods provided in the dlib toolkit, then programmed in Arduino to pick up the rubbish using a 6-DOF mechanical arm.
   * Elderly fall detection.
 
-+ As a software engineering intern at Beijing Huitong Financial Information Technology Co., Ltd. last summer, I implemented programmes in Java and combined them with UiPath process automation design software to perform voice calls using a software robot. I also tested the automated invoice verification system and verified that the robotic process automation had reduced invoice verification processing time by 70%.
-Source code can be accessed [_here_](https://github.com/wzh1998/STATE_GRID_Voice_Recognization)
++ As a robotics engineering intern at Beijing Huitong Financial Information Technology Co., Ltd. last summer, I implemented programmes in Java and combined them with UiPath process automation design software to perform voice calls using a software robot. I also tested the automated invoice verification system and verified that the robotic process automation had reduced invoice verification processing time by 70%.
+Source code can be accessed [_here_](https://github.com/wzh1998/STATE_GRID_Voice_Recognization).
 
 + I joined my school's programming team to learn about dynamic programming, game theory and high-efficiency data structures such as Segment Tree since I was in stage two. By solving algorithm problems taken from the ACM-ICPC contest using C++, I trained with my teammates to improve our speed and accuracy.
-Some of my algorithm training code can be accessed [_here_](https://github.com/wzh1998/ACM/tree/master/ACM)
+Some of my algorithm training code can be accessed [_here_](https://github.com/wzh1998/ACM/tree/master/ACM).
 
 + In my Database course project, I led a group of three to design a smart home control web system, including entity relationship diagram design, database mapping, database normalisation and physical implementation. I worked with my teammates to design the structure of our database and implemented the back end of the system independently, which was completed in Java. The Java programmes were designed as an interface between web pages and MySQL database using Java Database Connectivity (JDBC). Consequently, every time the user has a query on the website, the server will execute a corresponding operation in the database.
-  - Detailed design progress can be viewed [_here_](https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf)
-  * Java code for this project can be accessed [_here_](https://github.com/wzh1998/DBLab/tree/master/src/ie/ucd/comp2004J)
-  * The web system can be accessed [_here_](http://39.108.231.244:8080/DBLab/index.jsp)
+  - Detailed design progress can be viewed [_here_](https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf).
+  * Java code for this project can be accessed [_here_](https://github.com/wzh1998/DBLab/tree/master/src/ie/ucd/comp2004J).
+  * The web system can be accessed [_here_](http://39.108.231.244:8080/DBLab/index.jsp).
 
 
 + I enjoy exploring new areas that interest me. Finding remarkable fractal images that seemed interesting if used as avatars, I spent several days learning and implementing a programme drawing a Mandelbulb (a 3-D image calculated by recursion of mathematical equations) in C programming language.
-Source code can be accessed [_here_](https://github.com/wzh1998/FractalWorld)
+Source code can be accessed [_here_](https://github.com/wzh1998/FractalWorld).
 
 
 Research Interest
