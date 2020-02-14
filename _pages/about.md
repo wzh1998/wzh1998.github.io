@@ -25,11 +25,11 @@ To view my UCD official transcript, click [_here_](https://drive.google.com/file
 
 To view my BJUT official transcript, click [_here_](https://drive.google.com/file/d/14v8PKJt23dFfThMs9PFzynfaS9bq0E3W/view?usp=sharing).
 
-Final Award GPA is calculated by _formula 1_:
+Final Award GPA is calculated by _formula 1_ according to [_UCD official document_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf):
 
 $$Award\,GPA=GPA_{stage\,3}\cdot 30\% + GPA_{stage\,4}\cdot 70\%$$
 
-For official definitions about my degree awarded, refer [_here_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf)
+For official definitions about my degree awarded, refer [_here_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf).
 
 Professional Experience
 ------
