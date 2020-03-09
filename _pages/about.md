@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student at [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/) and [_University College Dublin (UCD)_](http://www.ucd.ie/) with a major in Internet of Things (IoT). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CN bachelor's degree from BJUT on July, 2020.
+I am a final year undergraduate student at [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/) and [_University College Dublin (UCD)_](http://www.ucd.ie/) with a major in Internet of Things (IoT). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities, core modules are delivered and examined in the medium of English by UCD lecturers. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CHN bachelor's degree from BJUT on July, 2020.
 
 I am interested in what I have learnt during the past three years. My current Stage 4 GPA is 3.93 (got A-/A/A+ in 5 out of 6 modules), my stage 3 GPA is 3.92 (got A-/A/A+ in 10 out of 12 modules). 
 
