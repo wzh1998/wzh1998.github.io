@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed my undergraduate degree at University College Dublin ([UCD](http://www.ucd.ie/)) and Beijing University of Technology ([BJUT](http://www.bjut.edu.cn/)) with a First Class Honours in the Internet of Things Engineering (award GPA: 3.99/4.20; FYP: A+ level). [My undergraduate programme](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities.
+I completed my bachelor's degree at University College Dublin ([UCD](http://www.ucd.ie/)) and Beijing University of Technology ([BJUT](http://www.bjut.edu.cn/)) with a First Class Honours in the Internet of Things Engineering (award GPA: 3.99/4.20; FYP: A+ level). [My undergraduate programme](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities.
 
 I am currently studying for a master's degree in Robotics at [_Imperial College London_](http://www.imperial.ac.uk/).
 
