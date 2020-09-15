@@ -24,7 +24,7 @@ Our team has also won top prizes from 10+ national and international competition
 
 Academic Performance
 ------
-To view my UCD degree certificate, click[_here_](https://drive.google.com/file/d/14mYDoXyzLTTzmCsDtLi72sKCvvvKKcZ4/view?usp=sharing).
+To view my UCD degree certificate, click [_here_](https://drive.google.com/file/d/14mYDoXyzLTTzmCsDtLi72sKCvvvKKcZ4/view?usp=sharing).
 
 To view my official transcript, click [_here_](https://drive.google.com/file/d/1DLX3hSIRm3R1ZJBQVvoH6NkZ7-mPefn1/view?usp=sharing).
 
