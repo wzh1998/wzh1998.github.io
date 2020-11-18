@@ -1,10 +1,10 @@
 ---
-permalink: /project/
+permalink: /projects/
 title: "Development Experience"
 excerpt: "My Research"
 author_profile: true
 redirect_from: 
-  - /project.html
+  - /projects.html
 ---
 
 ------
