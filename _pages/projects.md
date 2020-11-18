@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Development Experience"
+title: ""
 excerpt: "My Research"
 author_profile: true
 redirect_from: 
@@ -24,6 +24,14 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
   * Rubbish detection: I implemented a Python recognition programme by training a 2-D rubbish model using methods provided in the dlib toolkit, then programmed in Arduino to pick up the rubbish using a 6-DOF mechanical arm.
   * Elderly fall detection.
 
+### Bluetooth Lock Project
+This is an interest-driven project, which was completed by student Zihao Wang, Tianchan Li, and Jingxiang Sun in two weeks. The motivation of the project originated from observing how inconvenient it is to forget to bring our dormitory key, hence we have the idea of making a door lock that can be unlocked using Bluetooth on a mobile phone. The design was built using Arduino UNO, Bluetooth 4.0 module, relay and electromagnetic lock. We deployed the service on a private cloud server to realize home multi-user data storage and SMS notification service. Finally, thank our friend Qi Kan for editing and dubbing the video for us.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-21pGKzYvP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
+
+
 ### Software Development Intern 
 As a software engineering intern at Beijing Huitong Financial Information Technology Co., Ltd. last summer, I implemented programmes in Java and combined them with UiPath process automation design software to perform voice calls using a software robot. I also tested the automated invoice verification system and verified that the robotic process automation had reduced invoice verification processing time by 70%.
 Source code can be accessed [_here_](https://github.com/wzh1998/STATE_GRID_Voice_Recognization).
@@ -39,11 +47,7 @@ In my Database course project, I led a group of three to design a smart home con
   * The web system can be accessed [_here_](http://39.108.231.244:8080/DBLab/index.jsp).
 
 
-### Bluetooth Lock Project
-This is an interest-driven project, which was completed by student Zihao Wang, Tianchan Li, and Jingxiang Sun in two weeks. The motivation of the project originated from observing how inconvenient it is to forget to bring our dormitory key, hence we have the idea of making a door lock that can be unlocked using Bluetooth on a mobile phone. The design was built using Arduino UNO, Bluetooth 4.0 module, relay and electromagnetic lock. We deployed the service on a private cloud server to realize home multi-user data storage and SMS notification service. Finally, thank our friend Qi Kan for editing and dubbing the video for us.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-21pGKzYvP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
 <!-- + I enjoy exploring new areas that interest me. Finding remarkable fractal images that seemed interesting if used as avatars, I spent several days learning and implementing a programme drawing a Mandelbulb (a 3-D image calculated by recursion of mathematical equations) in C programming language.
