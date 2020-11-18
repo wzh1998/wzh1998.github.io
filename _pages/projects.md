@@ -25,14 +25,18 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
   * Rubbish detection, implemented the recognition programme by training a 2-D rubbish model using dlib toolkit, sending commands to a 6-DOF mechanical arm to pick up the rubbish.
 
 <figure>
-  <img src='/images/robot_building_map.gif' width="30%" />
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <img src='/images/robot_building_map.gif' width="300" />
+  <img src='/images/robot_arm.gif' width="300" />
+  <figcaption>Robot testing conducted in early stage</figcaption>
 </figure>
-
+<!-- <figure>
+  <img src='/images/robot_arm.gif' width="300" />
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure> -->
 
 
 ### Bluetooth Lock Project
-This is an interest-driven project, which was completed by student Zihao Wang, Tianchan Li, and Jingxiang Sun in two weeks. The motivation of the project originated from observing how inconvenient it is to forget to bring our dormitory key, hence we have the idea of making a door lock that can be unlocked using Bluetooth on a mobile phone. The design was built using Arduino UNO, Bluetooth 4.0 module, relay and electromagnetic lock. We deployed the service on a private cloud server to realize home multi-user data storage and SMS notification service. Finally, thank our friend Qi Kan for editing and dubbing the video for us.
+In this interest-driven project, I implemented a Bluetooth lock and its mobile control App with two other students. The motivation of the project originated from observing how inconvenient it is to forget to bring the dormitory key, hence we have the idea of making a door lock that can be unlocked using Bluetooth on a mobile phone. The design was built using Arduino UNO, Bluetooth 4.0 module, relay and electromagnetic lock. We deployed the service on a private cloud server to realize home multi-user data storage and SMS notification service. It took us two weeks to realize our idea and the final implementation is shown in the following video.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-21pGKzYvP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
