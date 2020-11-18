@@ -24,14 +24,12 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 
   * Rubbish detection, implemented the recognition programme by training a 2-D rubbish model using dlib toolkit, sending commands to a 6-DOF mechanical arm to pick up the rubbish.
 
-| [![](/images/robot_building_map.gif)](http://videoblocks.com)  | [![](/images/robot_arm.gif)](http://audioblocks.com) |
-|:---:|:---:|
-| Robot testing conducted in early stage |
-<!-- <figure>
-  <img src='/images/robot_building_map.gif' alt="Map Construction" />
-  <img src='/images/robot_arm.gif' alt="Robot Arm" />
+
+<figure>
+  <img src='/images/robot_building_map.gif' alt="Map Construction" style="width:30%"/>
+  <img src='/images/robot_arm.gif' alt="Robot Arm" style="width:30%"/>
   <figcaption>Robot testing conducted in early stage</figcaption>
-</figure> -->
+</figure>
 <!-- <figure>
   <img src='/images/robot_arm.gif' width="300" />
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
