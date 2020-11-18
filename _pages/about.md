@@ -17,18 +17,19 @@ I am currently studying for a master's degree in Robotics at [_Imperial College 
 
 <!-- I am interested in what I have learnt during the past four years. My Stage 4 GPA was 3.99, I got A level in 10 out of 12 modules and my FYP was graded 'A+'. My stage 3 GPA was 3.92 and I got A level in 10 out of 12 modules.  -->
 
-Out of the classroom, I have worked on a care robot project for over two years. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. I also trained a people-fallen model with dlib to detect elderly's fallen at home. Working with my team together, we also developed many other fantastic features (see Professional Exp) and we finally successfully made the care robot.
+Out of the classroom, I have worked on a care robot project for over one and half years. I developed a voice recognition system in ROS to help the elderly quickly communicate their needs to the robot. Combining robotic arms and relays with embedded LoRa modules, our robots effectively administered medications to their patients and switched appliances on and off via voice control. I also trained a people-fallen model with dlib to detect elderly's fallen at home. Working with my team together, we also developed many other fantastic features and we finally successfully made the care robot.
 
-Our team has also won top prizes from 10+ national and international competitions, please view Competition section for detailed information.
+Our team has also won top prizes from 10+ national and international competitions, for more information, please click [_here_](https://www.wangzihao.org/awards/)
+
 
 
 Academic Performance
 ------
-To view my UCD degree certificate, click [_here_](https://drive.google.com/file/d/14mYDoXyzLTTzmCsDtLi72sKCvvvKKcZ4/view?usp=sharing).
+<!-- To view my UCD degree certificate, click [_here_](https://drive.google.com/file/d/14mYDoXyzLTTzmCsDtLi72sKCvvvKKcZ4/view?usp=sharing). -->
 
 To view my official transcript, click [_here_](https://drive.google.com/file/d/1DLX3hSIRm3R1ZJBQVvoH6NkZ7-mPefn1/view?usp=sharing).
 
-My degree supplement can be accessed [_here_](https://drive.google.com/file/d/1RvWeTzZFRWblZUs4Qqb0C42C8xQqnIqE/view?usp=sharing).
+<!-- To view my degree supplement, click [_here_](https://drive.google.com/file/d/1RvWeTzZFRWblZUs4Qqb0C42C8xQqnIqE/view?usp=sharing). -->
 <!-- To view my BJUT official transcript, click [_here_](https://drive.google.com/file/d/14v8PKJt23dFfThMs9PFzynfaS9bq0E3W/view?usp=sharing). -->
 
 <!-- Final Award GPA is calculated by _formula 1_ according to [_UCD official document_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf):
