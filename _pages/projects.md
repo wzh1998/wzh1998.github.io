@@ -24,8 +24,10 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 
   * Rubbish detection, implemented the recognition programme by training a 2-D rubbish model using dlib toolkit, sending commands to a 6-DOF mechanical arm to pick up the rubbish.
 
-<img src='/images/robot_building_map.gif' width="300" height="200" />
-
+<p align="center">
+  <img src='/images/robot_building_map.gif' width="300" height="200" />
+  <img src='/images/robot_arm.gif' width="300" height="200" />
+</p>
 
 
 
