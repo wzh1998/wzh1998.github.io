@@ -35,10 +35,10 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GhS-U4DiQL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <i>Fig. Improvements in the later stage - Navigate and pick up object without predefined motions </i>
 
-<p float="center">
+<!-- <p float="center">
   <img src='/images/robot_finish.jpg' alt="Robot Redesign" width="735" />
-  <!-- <i>Fig. Improvements in the later stage (Navigate and pick up object without predefined motions </i> -->
-</p>
+  <i>Fig. Improvements in the later stage (Navigate and pick up object without predefined motions </i>
+</p> -->
 <!-- <figure>
   <img src='/images/robot_arm.gif' width="300" />
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
