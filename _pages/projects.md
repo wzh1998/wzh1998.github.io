@@ -28,10 +28,16 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 <p float="center">
 
   <img src='/images/robot_building_map.gif' alt="Map Construction" width="400" />
-  <img src='/images/robot_arm.gif' alt="Robot Arm" width="340" />
+  <img src='/images/robot_arm.gif' alt="Robot Arm" width="335" />
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Robot testing conducted in project early stage</i>
 </p>
+
+<p float="center">
+  <img src='/images/robot_finish.jpg' alt="Robot Redesign" width="500" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Hardware improvements in the later stage of the project (including a higher DoF robotic arm, etc.)</i>
+</p>
+
 <!-- <figure>
   <img src='/images/robot_arm.gif' width="300" />
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
