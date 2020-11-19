@@ -19,7 +19,7 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
   * Voice control system which helps the elderly communicate their needs to the robot. This including voice wakeup, automatic voice recognition (ASR), text to speech (TTS) and syntax and semantic analysis modules.
 
   Features implemented in Python:
-  - Rubbish picking. The position of object is estimate from camera using color discrimination. Then calculate the joint angles required for the robot arm to reach that position using inverse kinematics. Finally, sending commands to the mechanical arm to pick up the object.
+  - Rubbish picking. The position of object is estimated from camera using color discrimination. Then calculate the joint angles required for the robot arm to reach that position using inverse kinematics. Finally, sending commands to the mechanical arm to pick up the object.
   * Elderly fall detection, trained the dataset using dlib toolkit
    <!-- and obtained a 68 points face landmark detection model -->
 
