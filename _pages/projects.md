@@ -23,17 +23,20 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
    <!-- and obtained a 68 points face landmark detection model -->
 
   * Rubbish detection, implemented the recognition programme by training a 2-D rubbish model using dlib toolkit, sending commands to a 6-DOF mechanical arm to pick up the rubbish.
-<p align="middle">
 
-  <figure align="middle">
-  <img src='/images/robot_building_map.gif' alt="Map Construction" style="width:120%" align="middle"/>
-  </figure>
-  <figure align="middle">
-  <img src='/images/robot_arm.gif' alt="Robot Arm" style="width:90%" align="middle"/>
-  </figure>
-Robot testing conducted in early stage
 
-<p>
+<figure>
+
+  <figure>
+  <img src='/images/robot_building_map.gif' alt="Map Construction" style="width:120%"/>
+  </figure>
+  <figure>
+  <img src='/images/robot_arm.gif' alt="Robot Arm" style="width:80%"/>
+  </figure>
+  
+<figcaption>      Robot testing conducted in early stage</figcaption>
+
+</figure>
 <!-- <figure>
   <img src='/images/robot_arm.gif' width="300" />
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
