@@ -19,25 +19,26 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
   * Voice control system which helps the elderly communicate their needs to the robot. This including voice wakeup, automatic voice recognition (ASR), text to speech (TTS) and syntax and semantic analysis modules.
 
   Features implemented in Python:
-  - Elderly fall detection, trained the dataset using dlib toolkit
+  - Rubbish picking. The position of object is estimate from camera using color discrimination. Then calculate the joint angles required for the robot arm to reach that position using inverse kinematics. Finally, sending commands to the mechanical arm to pick up the object.
+  * Elderly fall detection, trained the dataset using dlib toolkit
    <!-- and obtained a 68 points face landmark detection model -->
-
-  * Rubbish detection, implemented the recognition programme by training a 2-D rubbish model using dlib toolkit, sending commands to a 6-DOF mechanical arm to pick up the rubbish.
-
 
 <p float="center">
 
   <img src='/images/robot_building_map.gif' alt="Map Construction" width="400" />
   <img src='/images/robot_arm.gif' alt="Robot Arm" width="335" />
   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Robot testing conducted in project early stage</i>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Robot testing conducted in project early stage (Motions are predefined)</i>
 </p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GhS-U4DiQL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<i>Fig. Improvements in the later stage (Navigate and pick up object without predefined motions </i>
 
 <p float="center">
   <img src='/images/robot_finish.jpg' alt="Robot Redesign" width="735" />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Hardware improvements in the later stage of the project (including a higher DoF robotic arm, etc.)</i>
+  <!-- <i>Fig. Improvements in the later stage (Navigate and pick up object without predefined motions </i> -->
 </p>
-
 <!-- <figure>
   <img src='/images/robot_arm.gif' width="300" />
   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
@@ -49,7 +50,7 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 In this interest-driven project, I implemented a Bluetooth lock and its mobile control App with two other students. The motivation of the project originated from observing how inconvenient it is to forget to bring the dormitory key, hence we have the idea of making a door lock that can be unlocked using Bluetooth on a mobile phone. The design was built using Arduino UNO, Bluetooth 4.0 module, relay and electromagnetic lock. We deployed the service on a private cloud server to realize home multi-user data storage and SMS notification service. It took us two weeks to realize our idea and the final implementation is shown in the following video.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-21pGKzYvP0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/feSrGJmJev4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
 
