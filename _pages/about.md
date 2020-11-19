@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a postgraduate student studying at [_Imperial College London_](http://www.imperial.ac.uk/) major in MSc Human and Biological Robotics.
 
-I completed my bachelor's degree at University College Dublin ([UCD](http://www.ucd.ie/)) and Beijing University of Technology ([BJUT](http://www.bjut.edu.cn/)) with a First Class Honours in the Internet of Things Engineering (award GPA: 3.99/4.20; FYP: A+ level). [My undergraduate programme](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities.
+I completed my bachelor's degree at University College Dublin ([UCD](http://www.ucd.ie/)) and Beijing University of Technology ([BJUT](http://www.bjut.edu.cn/)) with a First Class Honours in the Internet of Things Engineering (award GPA: 3.99/4.20; FYP: A+ level). 
+<!-- [My undergraduate programme](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities. -->
 
-I am currently studying for a master's degree in Robotics at [_Imperial College London_](http://www.imperial.ac.uk/).
+
 
 <!-- I am a final year undergraduate student at [_Beijing University of Technology (BJUT)_](http://www.bjut.edu.cn/) and [_University College Dublin (UCD)_](http://www.ucd.ie/) with a major in the Internet of Things Engineering (IoTE). My undergraduate programme [_BDIC_](http://www.ucd.ie/bdic/t4media/Understanding%20your%20BDIC%20Award%20-%20180%20Credits%20%28Updated%29.pdf) is co-organized by the above two unversities, core modules are delivered and examined in the medium of English by UCD lecturers at BJUT campus. I am expected to get a First Class Honours EU Bachelor degree from UCD and a CHN bachelor's degree from BJUT on July, 2020.  -->
 <!-- I have received a conditional offer from [_Imperial College London_](http://www.imperial.ac.uk/) and plan to enroll in autumn 2020. -->
@@ -27,7 +29,7 @@ Academic Performance
 ------
 <!-- To view my UCD degree certificate, click [_here_](https://drive.google.com/file/d/14mYDoXyzLTTzmCsDtLi72sKCvvvKKcZ4/view?usp=sharing). -->
 
-To view my official transcript, click [_here_](https://drive.google.com/file/d/1DLX3hSIRm3R1ZJBQVvoH6NkZ7-mPefn1/view?usp=sharing).
+My undergraduate transcript can be accessed [_here_](https://drive.google.com/file/d/1DLX3hSIRm3R1ZJBQVvoH6NkZ7-mPefn1/view?usp=sharing).
 
 <!-- To view my degree supplement, click [_here_](https://drive.google.com/file/d/1RvWeTzZFRWblZUs4Qqb0C42C8xQqnIqE/view?usp=sharing). -->
 <!-- To view my BJUT official transcript, click [_here_](https://drive.google.com/file/d/14v8PKJt23dFfThMs9PFzynfaS9bq0E3W/view?usp=sharing). -->
