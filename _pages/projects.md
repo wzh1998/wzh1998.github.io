@@ -25,15 +25,15 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 
 <p float="center">
 
-  <img src='/images/robot_building_map.gif' alt="Map Construction" width="500" />
-  <img src='/images/robot_arm.gif' alt="Robot Arm" width="418" />
+  <img src='/images/robot_building_map.gif' alt="Map Construction" width="450" />
+  <img src='/images/robot_arm.gif' alt="Robot Arm" width="355" />
   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Robot testing conducted in project early stage (Motions are predefined)</i>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Robot testing conducted in project early stage - Motions are predefined</i>
 </p>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GhS-U4DiQL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<i>Fig. Improvements in the later stage (Navigate and pick up object without predefined motions </i>
+<i>Fig. Improvements in the later stage - Navigate and pick up object without predefined motions </i>
 
 <p float="center">
   <img src='/images/robot_finish.jpg' alt="Robot Redesign" width="735" />
