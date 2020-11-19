@@ -34,7 +34,7 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 </p>
 
 <p float="center">
-  <img src='/images/robot_finish.jpg' alt="Robot Redesign" width="500" />
+  <img src='/images/robot_finish.jpg' alt="Robot Redesign" width="735" />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Hardware improvements in the later stage of the project (including a higher DoF robotic arm, etc.)</i>
 </p>
 
