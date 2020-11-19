@@ -29,10 +29,10 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 <figcaption>Robot testing conducted in early stage</figcaption>
 
   <figure>
-  <img src='/images/robot_building_map.gif' alt="Map Construction" style="width:40%"/>
+  <img src='/images/robot_building_map.gif' alt="Map Construction" style="width:100%"/>
   </figure>
   <figure>
-  <img src='/images/robot_arm.gif' alt="Robot Arm" style="width:40%"/>
+  <img src='/images/robot_arm.gif' alt="Robot Arm" style="width:100%"/>
   </figure>
   
 </figure>
