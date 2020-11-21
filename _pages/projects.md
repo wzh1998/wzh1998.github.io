@@ -32,9 +32,12 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 </p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GhS-U4DiQL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcRM-UG7RrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <i>Fig. Improvements in the later stage - Navigate and pick up object without predefined motions </i>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-hF89vJ75c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<i>Fig. Improvements in the final stage - Designed efficient end effector and robust failure detection algorithm </i>
 <!-- <p float="center">
   <img src='/images/robot_finish.jpg' alt="Robot Redesign" width="735" />
   <i>Fig. Improvements in the later stage (Navigate and pick up object without predefined motions </i>
@@ -50,7 +53,7 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 In this interest-driven project, I implemented a Bluetooth lock and its mobile control App with two other students. The motivation of the project originated from observing how inconvenient it is to forget to bring the dormitory key, hence we have the idea of making a door lock that can be unlocked using Bluetooth on a mobile phone. The design was built using Arduino UNO, Bluetooth 4.0 module, relay and electromagnetic lock. We deployed the service on a private cloud server to realize home multi-user data storage and SMS notification service. It took us two weeks to realize our idea and the final implementation is shown in the following video.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/feSrGJmJev4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/feSrGJmJev4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
