@@ -38,6 +38,8 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-hF89vJ75c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <i>Fig. Improvements in the final stage - Designed efficient end effector and robust failure detection algorithm </i>
+
+
 <!-- <p float="center">
   <img src='/images/robot_finish.jpg' alt="Robot Redesign" width="735" />
   <i>Fig. Improvements in the later stage (Navigate and pick up object without predefined motions </i>
