@@ -35,7 +35,7 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 </p>
 
 <p float="center">
-  <img src='/images/face_recognition.gif' alt="Map Construction" width="400" />
+  <img src='/images/face_recognition.gif' alt="Map Construction" width="735" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Strangers detection</i>
 </p>
 
