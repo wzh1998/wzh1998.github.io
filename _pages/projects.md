@@ -19,8 +19,11 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
   * Voice control system which helps the elderly communicate their needs to the robot. This including voice wakeup, automatic voice recognition (ASR), text to speech (TTS) and syntax and semantic analysis modules.
 
   Features implemented in Python:
-  - Rubbish picking. The position of object is estimated from camera using color discrimination. Then calculate the joint angles required for the robot arm to reach that position using inverse kinematics. Finally, sending commands to the mechanical arm to pick up the object.
-  * Elderly fall detection, trained the dataset using dlib toolkit
+  - Self navigation between multiple locations, different tasks are performed at each location.
+  * Strangers detection, implemented by training a 68-point-face-model using Dlib toolkit.
+  * Elderly fall detection, training and testing are performed with SVM method using Dlib toolkit.
+  * Rubbish picking. The position of object is estimated from camera using color discrimination. Then calculate the joint angles required for the robot arm to reach that position using inverse kinematics. Finally, sending commands to the mechanical arm to pick up the object.
+
    <!-- and obtained a 68 points face landmark detection model -->
 
 <p float="center">
@@ -31,13 +34,17 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Robot testing conducted in project early stage - Motions are predefined</i>
 </p>
 
+<p float="center">
+  <img src='/images/face_recognition.gif' alt="Map Construction" width="400" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <i>Fig. Strangers detection</i>
+</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AcRM-UG7RrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <i>Fig. Improvements in the later stage - Navigate and pick up object without predefined motions </i>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-hF89vJ75c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<i>Fig. Improvements in the final stage - Designed efficient end-effector and robust failure detection algorithm </i>
+<i>Fig. Improvements in the final stage - Designed an efficient end-effector and implemented a failure detection algorithm </i>
 
 
 <!-- <p float="center">
