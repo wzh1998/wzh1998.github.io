@@ -36,7 +36,7 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 
 <p float="center">
   <img src='/images/face_recognition.gif' alt="Map Construction" width="735" />
-  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<i>Fig. Face detection and recognition</i>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<i>Fig. Face detection and recognition</i>
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AcRM-UG7RrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
