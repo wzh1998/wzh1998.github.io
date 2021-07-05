@@ -57,7 +57,7 @@ During my second year of undergraduate study, I dedicated myself to an undergrad
 </figure> -->
 
 
-
+[Bluetooth Lock Project](projects.md#BTL_Project)
 ### Bluetooth Lock Project
 In this interest-driven project, I implemented a Bluetooth lock and its mobile control App with two other students. The motivation of the project originated from observing how inconvenient it is to forget to bring the dormitory key, hence we have the idea of making a door lock that can be unlocked using Bluetooth on a mobile phone. The design was built using Arduino UNO, Bluetooth 4.0 module, relay and electromagnetic lock. We deployed the service on a private cloud server to realize home multi-user data storage and SMS notification service. It took us two weeks to realize our idea and the final implementation is shown in the following video.
 
