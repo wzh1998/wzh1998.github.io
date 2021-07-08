@@ -25,7 +25,7 @@ During the reinforcement learning course at Imperial College, I learned various 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TavpP1vIJBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<i>Fig. Exploring and learning the maze epoch by epoch, such that the agent's policy becomes better and better.</i>
+<i>Fig. Exploring and learning the maze epoch by epoch, note the process that the agent's policy converged to optimal.</i>
 
 
 
