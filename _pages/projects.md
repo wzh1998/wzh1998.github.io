@@ -21,7 +21,7 @@ During my postgraduate degree project, I worked on the EczemaNet project in [TAN
 </p>
 
 
-### Maze solver (RL course project at Imperial)
+### Maze Solver (RL course project)
 During the reinforcement learning course at Imperial College, I learned various including Monte-Carlo and Temporal Difference learning, Q-Learning etc. With these knowledge, I successfully built an agent to explore and learn the best solution of a random maze.
 
 
