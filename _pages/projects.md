@@ -13,8 +13,8 @@ redirect_from:
 During my postgraduate degree project, I worked on the EczemaNet project in [TANAKA GROUP](http://www.bg.ic.ac.uk/research/r.tanaka/) at Imperial College. Eczema is a skin disease which affects 30% of children and 2-10% of adults worldwide, the skin inflammation caused by this disease can lead to severe impact on patients' daily life. In an effort to standardise the assesment of Atopic Dermatitis (the most common form of Eczema), Tanaka group has developed a computer vision pipeline called EczemaNet, using machine learning and neural network. I am responsible for implementing segmentation network to identify lesion areas at pixel level, designing a series of experiments for further evaluation. Currently we are preparing to publish a paper named "EczemaNet Towards Robust Automated Detection of Atopic Dermatitis Regions from Camera Images".
 
 <p float="center">
-  <img src='/images/EczemaNet_predictions.png' alt="Map Construction" height="100" />
-  <img src='/images/EczemaNet_boxes.png' alt="Map Construction" height="100" />
+  <img src='/images/EczemaNet_predictions.png' alt="Map Construction" width="350" />
+  <img src='/images/EczemaNet_boxes.png' alt="Map Construction" width="350" />
 </p>
 
 
@@ -25,7 +25,7 @@ During the reinforcement learning course at Imperial College, I learned various 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TavpP1vIJBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<i>Exploring and learning the maze epoch by epoch, such that the agent's policy becomes better and better.</i>
+<i>Fig. Exploring and learning the maze epoch by epoch, such that the agent's policy becomes better and better.</i>
 
 
 
