@@ -1,9 +1,9 @@
 ---
-title: "2019 National College Student Embedded System Design Competition"
+title: "2018 Mathematical Contest in Modeling"
 author_profile: true
-excerpt: "First Prize, top 10 of 400 teams;
-awarded by the Chinese Institute of Electronics. The award certificate can be accessed [here](https://drive.google.com/file/d/1UM8YsLQjd1QGgi5UzfXhnXHGtb8hgELr/view?usp=sharing). <!-- <br/><img src='/images/2019NESD_photo.png'> -->"
+excerpt: "Merit Winner, awarded to the top 10% teams worldwide among 10670
+teams by the American Consortium for Mathematics and Its Applications. <br/><img src='/images/2018MCM_photo.png'>"
 collection: portfolio
 ---
 
-TODO: Write something here...
+

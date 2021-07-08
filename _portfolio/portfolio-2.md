@@ -1,9 +1,9 @@
 ---
-title: "2018 Mathematical Contest in Modeling"
+title: "2019 China Robot Competition"
 author_profile: true
-excerpt: "Merit Winner, awarded to the top 10% teams worldwide among 10670
-teams by the American Consortium for Mathematics and Its Applications. <br/><img src='/images/2018MCM_photo.png'>"
+excerpt: "Champion, ranked 1st in service robot group; top 0.04% of over 1109 teams in
+all groups from 207 colleges in China; awarded by the Chinese Association of Automation (CAA). The award certificate can be accessed [here](https://drive.google.com/file/d/10mqRH9YPgNV3X4Msau7qAeEGnfNZW2Kd/view?usp=sharing). <br/><img src='/images/2019CRC_photo.png'>"
 collection: portfolio
 ---
 
-TODO: Write something here...
+
