@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /projects.html
   - /projects/%23bluetooth-lock-project
+  - /projects/%23care-robot-project
 ---
 
 ------
