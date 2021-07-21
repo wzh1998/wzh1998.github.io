@@ -31,7 +31,7 @@ During the reinforcement learning course at Imperial College, I learned various 
 
 
 
-
+[](#care-robot-project)
 ### Care Robot Project
 During my second year of undergraduate study, I dedicated myself to an undergraduate robotics project. I had the idea to create a robot that would care for the elderly after seeing a report<!-- <sup>[[1]](https://www.un.org/en/sections/issues-depth/ageing/)</sup> --> from the United Nations indicating that, by 2050, one in six people worldwide (16%) will be over the age of 65, increased from one in eleven (9%) in 2018. This finding was even more significant in light of statistics from the China Life Insurance Company illustrating that more than 9% of people in China age 75 or over were readmitted to the hospital within a month of discharge. This suggests that they were not given sufficient care at home, which, in turn, indicated a shortage of caregivers. I believe that caregiver robots could be an extension of the elderly’s abilities in their daily lives, providing them independence, warmth and comfort. After applying through our college to establish an undergraduate robot project, two of my classmates ([Yuan Gao](https://www.linkedin.com/in/yuangao97/), Tianchang Li) and I were granted the devices and laboratory space necessary to set to work. After working in our spare time for a year, our team successfully built a multifunctional care robot. Source code of this project can be accessed [_here_](https://github.com/nkc3g4/ROS_Service_Robot). The main features we implemented are shown below:
 
