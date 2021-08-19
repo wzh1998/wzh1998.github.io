@@ -105,7 +105,7 @@ Some of my algorithm training code can be accessed [_here_](https://github.com/w
 In this project, I led a group of three to design a smart home control web system, including entity relationship diagram design, database mapping, database normalisation and physical implementation. I worked with my teammates to design the structure of our database and implemented the back end of the system independently, which was completed in Java. The Java programmes were designed as an interface between web pages and MySQL database using Java Database Connectivity (JDBC). Consequently, every time the user has a query on the website, the server will execute a corresponding operation in the database.
   - Detailed design progress can be viewed [_here_](https://github.com/wzh1998/DBLab/blob/master/Smart%20Home%20System.pdf).
   * Java code for this project can be accessed [_here_](https://github.com/wzh1998/DBLab/tree/master/src/ie/ucd/comp2004J).
-  * The web system can be accessed [_here_](http://39.108.231.244:8080/DBLab/index.jsp).
+  <!-- * The web system can be accessed [_here_](http://39.108.231.244:8080/DBLab/index.jsp). -->
 
 
 
