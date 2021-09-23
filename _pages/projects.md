@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-[](#EczemaNet)
+[](#eczemaNet)
 
 ### EczemaNet
 During my postgraduate degree project, I worked on the EczemaNet project in [TANAKA GROUP](http://www.bg.ic.ac.uk/research/r.tanaka/) at Imperial College. Eczema is a skin disease which affects 30% of children and 2-10% of adults worldwide, the skin inflammation caused by this disease can lead to severe impact on patients' daily life. In an effort to standardise the assesment of Atopic Dermatitis (the most common form of Eczema), Tanaka group has developed a computer vision pipeline called EczemaNet, using machine learning and neural network. I am responsible for implementing segmentation network to identify lesion areas at pixel level, designing a series of experiments for further evaluation. 
